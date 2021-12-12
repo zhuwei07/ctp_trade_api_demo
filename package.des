@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="gb2312"?>
+<packageDefine name="traderdemo" version="1" type="cpp" includedir="." platform="all">
+	<parameter/>
+	<depend/>
+	<cppfile>
+		<file name="TraderDemo.cpp">
+	</cppfile>
+	<headfile>
+		<file name="ThostFtdcTraderApi.h">
+		<file name="ThostFtdcUserApiDataType.h">
+		<file name="ThostFtdcUserApiStruct.h">
+	</headfile>
+	<libfile>
+		<file name="thosttraderapi_se">
+	</libfile>
+	<command/>
+</packageDefine>
+s
